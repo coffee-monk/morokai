@@ -1,5 +1,5 @@
 " =============================================================================
-" Filename: autoload/lightline/colorscheme/mjc.vim
+" Filename: autoload/lightline/colorscheme/morokai.vim
 " Author: nikersify
 " License: MIT License
 " Last Change: 2020/02/15 20:56:45.
@@ -36,4 +36,4 @@ let s:p.tabline.right = [ s:p.normal.left[1] ]
 let s:p.normal.error = [ [ '#ffffff', '#800000', s:term_black, s:term_green ] ]
 let s:p.normal.warning = [ [ '#ffffff', '#e5c07b', s:term_black, s:term_yellow ] ]
 
-let g:lightline#colorscheme#mjc#palette = lightline#colorscheme#fill(s:p)
+let g:lightline#colorscheme#morokai#palette = lightline#colorscheme#fill(s:p)
