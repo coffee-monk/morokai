@@ -1,11 +1,11 @@
-" Maintainer: mjc
+" Maintainer: morokai
 
 set background=dark
 hi clear
 if exists('syntax_on')
   syntax reset
 endif
-let g:colors_name='mjc'
+let g:colors_name='morokai'
 
 hi Normal guifg=#e5d1d1 ctermfg=188 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi comment guifg=#777777 ctermfg=243 guibg=NONE ctermbg=NONE gui=italic cterm=italic
