@@ -146,9 +146,9 @@ hi htmlH6 guifg=#70dbff ctermfg=81 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi htmlItalic guifg=#ff00ff ctermfg=201 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi htmlLink guifg=#00ffff ctermfg=51 guibg=NONE ctermbg=NONE gui=underline cterm=underline
 hi htmlSpecialChar guifg=#d7d75f ctermfg=185 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi htmlSpecialTagName guifg=#70dbff ctermfg=81 guibg=NONE ctermbg=NONE gui=italic cterm=italic
+hi htmlSpecialTagName guifg=#70dbff ctermfg=81 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi htmlTag guifg=#ffffff ctermfg=231 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi htmlTagN guifg=#70dbff ctermfg=81 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi htmlTagN guifg=#70dbff ctermfg=81 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi htmlTagName guifg=#70dbff ctermfg=81 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi htmlTitle guifg=#ffffff ctermfg=231 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi markdownBlockquote guifg=#d7d7d7 ctermfg=188 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
