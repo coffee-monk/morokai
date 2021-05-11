@@ -105,11 +105,11 @@ hi TSFuncBuiltin guifg=#00afff ctermfg=39 guibg=NONE ctermbg=NONE gui=bold cterm
 hi TSFunction guifg=#00afff ctermfg=39 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSFuncMacro guifg=#00ff00 ctermfg=46 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSParameter guifg=#ffd7af ctermfg=223 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSParameterReference guifg=#70dbff ctermfg=81 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSParameterReference guifg=#87ffff ctermfg=123 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSMethod guifg=#00afff ctermfg=39 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSField guifg=#70dbff ctermfg=81 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSField guifg=#87ffff ctermfg=123 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSProperty guifg=#00887a ctermfg=30 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSConstructor guifg=#70dbff ctermfg=81 guibg=NONE ctermbg=NONE gui=bold cterm=bold
+hi TSConstructor guifg=#87ffff ctermfg=123 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi TSConditional guifg=#d70000 ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSRepeat guifg=#ebd6ff ctermfg=225 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSLabel guifg=#afafd7 ctermfg=146 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
