@@ -98,7 +98,7 @@ hi TSCharacter guifg=#b7ffad ctermfg=157 guibg=NONE ctermbg=NONE gui=NONE cterm=
 hi TSNumber guifg=#db7094 ctermfg=168 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSBoolean guifg=#00ff00 ctermfg=46 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi TSFloat guifg=#b7ffad ctermfg=157 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSAnnotation guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSAnnotation guifg=#e5d1d1 ctermfg=188 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi TSAttribute guifg=#00ffff ctermfg=51 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSNamespace guifg=#00ffff ctermfg=51 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSFuncBuiltin guifg=#00afff ctermfg=39 guibg=NONE ctermbg=NONE gui=bold cterm=bold
