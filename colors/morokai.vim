@@ -84,7 +84,7 @@ hi WarningMsg guifg=#000000 ctermfg=16 guibg=#00ff00 ctermbg=46 gui=bold cterm=b
 hi WildMenu guifg=#000000 ctermfg=16 guibg=#70dbff ctermbg=81 gui=NONE cterm=NONE
 hi EndOfBuffer guifg=#585858 ctermfg=240 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi TSComment guifg=#777777 ctermfg=243 guibg=NONE ctermbg=NONE gui=italic cterm=italic
-hi TSError guifg=#870000 ctermfg=88 guibg=NONE ctermbg=NONE gui=bold cterm=bold
+hi TSError guifg=#870000 ctermfg=88 guibg=NONE ctermbg=NONE gui=bold,standout cterm=bold,standout
 hi TSPunctDelimiter guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSPunctBracket guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSPunctSpecial guifg=#ffffff ctermfg=231 guibg=NONE ctermbg=NONE gui=bold cterm=bold
