@@ -18,7 +18,7 @@ let s:p = {'normal': {}, 'inactive': {}, 'insert': {}, 'replace': {}, 'visual': 
 
 let s:p.normal.left = [ [ '#000000', '#585858', s:term_black, s:term_red, 'bold' ], [ '#777777', 'NONE', s:term_white, s:term_black, 'bold' ] ]
 let s:p.normal.right = [ [ '#000000', '#585858', s:term_black, s:term_red, 'bold' ], [ '#585858', 'NONE', s:term_white, s:term_black, 'bold' ], [ '#585858', 'NONE', s:term_white, s:term_black ] ]
-let s:p.inactive.right = [ [ '#000000', '#585858', s:term_black, s:term_red, 'bold'], [ '#777777', 'NONE', s:term_white, s:term_black, 'bold' ], [ '#585858', 'NONE', s:term_white, s:term_black, 'bold' ] ]
+let s:p.inactive.right = [ [ '#585858', 'NONE', s:term_black, s:term_red, 'bold,underline'], [ '#585858', 'NONE', s:term_white, s:term_black, 'bold,underline' ], [ '#585858', 'NONE', s:term_white, s:term_black, 'bold,underline' ] ]
 let s:p.inactive.left = s:p.inactive.right[1:]
 let s:p.insert.left = [ [ '#000000', '#00ffff', s:term_black, s:term_blue, 'bold' ], [ '#00ffff', 'NONE', s:term_blue, s:term_black ] ]
 let s:p.insert.right = [ [ '#000000', '#00ffff', s:term_black, s:term_blue ], [ '#00ffff', 'NONE', s:term_blue, s:term_black ], [ '#00ffff', 'NONE', s:term_blue, s:term_black ] ]
