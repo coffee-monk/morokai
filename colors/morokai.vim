@@ -111,7 +111,7 @@ hi TSField guifg=#87ffff ctermfg=123 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSProperty guifg=#009c8c ctermfg=36 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSConstructor guifg=#87ffff ctermfg=123 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi TSConditional guifg=#d70000 ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSRepeat guifg=#ebd6ff ctermfg=225 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSRepeat guifg=#d70000 ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSLabel guifg=#afafd7 ctermfg=146 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSKeyword guifg=#d70000 ctermfg=160 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi TSKeywordFunction guifg=#ff00ff ctermfg=201 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
