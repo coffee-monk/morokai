@@ -91,7 +91,7 @@ hi TSPunctSpecial guifg=#ffffff ctermfg=231 guibg=NONE ctermbg=NONE gui=bold cte
 hi TSConstant guifg=#e4e4e4 ctermfg=254 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSConstBuiltin guifg=#87ffff ctermfg=123 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi TSConstMacro guifg=#00ffff ctermfg=51 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSStringRegex guifg=#ff5f00 ctermfg=202 guibg=NONE ctermbg=NONE gui=italic cterm=italic
+hi TSStringRegex guifg=#ff5f00 ctermfg=202 guibg=NONE ctermbg=NONE gui=italic,bold cterm=italic,bold
 hi TSString guifg=#b7ffad ctermfg=157 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi TSStringEscape guifg=#b7ffad ctermfg=157 guibg=NONE ctermbg=NONE gui=italic,bold cterm=italic,bold
 hi TSCharacter guifg=#b7ffad ctermfg=157 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
